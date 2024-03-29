@@ -38,6 +38,9 @@ Se você quiser contribuir com este projeto, por favor, siga estas etapas:
 - <img src="https://avatars.githubusercontent.com/u/113522254?v=4" alt="Bolinha1" style="width: 40px; height: 40px;">[@WillianXG](https://github.com/WillianXG)
 - <img src="https://avatars.githubusercontent.com/u/114073975?v=4" alt="Bolinha3" style="width: 40px; height: 40px;">[@Dannfonseca](https://github.com/Dannfonseca)
 
+
+# Slide do Projeto
+
 ![Screenshot 2024-03-18 at 19-29-54 SENAC - CNseg M1 Projeto em grupo - 1710162451196_C452_ SENAC - CNseg M1 Projeto em grupo pdf](https://github.com/davidlgomes/trabalhoGrupo1/assets/47571290/e5afe4f5-6484-40f3-8f90-ae85e5907637)
 ![Screenshot 2024-03-18 at 19-30-04 SENAC - CNseg M1 Projeto em grupo - 1710162451196_C452_ SENAC - CNseg M1 Projeto em grupo pdf](https://github.com/davidlgomes/trabalhoGrupo1/assets/47571290/7b7b45c0-476e-4014-9309-2001533300e7)
 ![Screenshot 2024-03-18 at 19-30-08 SENAC - CNseg M1 Projeto em grupo - 1710162451196_C452_ SENAC - CNseg M1 Projeto em grupo pdf](https://github.com/davidlgomes/trabalhoGrupo1/assets/47571290/beb28fc4-c1b9-48fe-85dc-ebf8686361a1)
