@@ -1,8 +1,8 @@
 # Trabalho em grupo Modulo 1
 ## Integrantes: 
-<a href="https://github.com/davidlgomes">David Lopes Gomes</a>
-<a href="https://github.com/WillianXG">Francisco Willian</a>
-<a href="https://github.com/Dannfonseca">Daniel Fonseca</a>
+<a href="https://github.com/davidlgomes">David Lopes Gomes</a><br>
+<a href="https://github.com/WillianXG">Francisco Willian</a><br>
+<a href="https://github.com/Dannfonseca">Daniel Fonseca</a><br>
 
 # Pesquisa de Saúde
 
