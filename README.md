@@ -1,5 +1,43 @@
-# trabalhoGrupo1
-Integrantes: <a href="https://github.com/davidlgomes">David Lopes Gomes</a>
+# Trabalho em grupo Modulo 1
+## Integrantes: 
+<a href="https://github.com/davidlgomes">David Lopes Gomes</a>
+<a href="https://github.com/WillianXG">Francisco Willian</a>
+<a href="https://github.com/Dannfonseca">Daniel Fonseca</a>
+
+# Pesquisa de Saúde
+
+Este é um programa simples em Python para coletar dados de uma pesquisa de saúde e armazená-los em um arquivo CSV. A pesquisa consiste em algumas perguntas relacionadas a hábitos de saúde e estilo de vida.
+
+## Funcionalidades
+
+- Permite que os participantes da pesquisa insiram informações como idade, gênero e respostas a perguntas específicas.
+- Armazena os dados coletados em um arquivo CSV para posterior análise.
+
+## Como usar
+
+1. Certifique-se de ter o Python instalado em seu sistema. Você pode baixá-lo em [python.org](https://www.python.org/).
+2. Clone este repositório em sua máquina local usando `git clone`.
+3. Navegue até o diretório do projeto.
+4. Execute o script `pesquisa_saude.py` usando Python.
+5. Siga as instruções no terminal para inserir os dados da pesquisa.
+6. Quando terminar, digite '00' quando solicitado a informar a idade para sair do programa.
+
+## Como contribuir
+
+Se você quiser contribuir com este projeto, por favor, siga estas etapas:
+
+1. Faça um fork deste repositório.
+2. Crie uma branch para sua feature (`git checkout -b feature/MinhaFeature`).
+3. Faça commit de suas mudanças (`git commit -am 'Adicione uma nova feature'`).
+4. Faça push para a branch (`git push origin feature/MinhaFeature`).
+5. Abra um Pull Request.
+
+## Contribuidores
+
+-  <img src="https://avatars.githubusercontent.com/u/47571290?v=4" alt="Bolinha2" style="width: 40px; height: 40px;">[@davidlgomes](https://github.com/davidlgomes)
+- <img src="https://avatars.githubusercontent.com/u/113522254?v=4" alt="Bolinha1" style="width: 40px; height: 40px;">[@WillianXG](https://github.com/WillianXG)
+- <img src="https://avatars.githubusercontent.com/u/114073975?v=4" alt="Bolinha3" style="width: 40px; height: 40px;">[@Dannfonseca](https://github.com/Dannfonseca)
+
 ![Screenshot 2024-03-18 at 19-29-54 SENAC - CNseg M1 Projeto em grupo - 1710162451196_C452_ SENAC - CNseg M1 Projeto em grupo pdf](https://github.com/davidlgomes/trabalhoGrupo1/assets/47571290/e5afe4f5-6484-40f3-8f90-ae85e5907637)
 ![Screenshot 2024-03-18 at 19-30-04 SENAC - CNseg M1 Projeto em grupo - 1710162451196_C452_ SENAC - CNseg M1 Projeto em grupo pdf](https://github.com/davidlgomes/trabalhoGrupo1/assets/47571290/7b7b45c0-476e-4014-9309-2001533300e7)
 ![Screenshot 2024-03-18 at 19-30-08 SENAC - CNseg M1 Projeto em grupo - 1710162451196_C452_ SENAC - CNseg M1 Projeto em grupo pdf](https://github.com/davidlgomes/trabalhoGrupo1/assets/47571290/beb28fc4-c1b9-48fe-85dc-ebf8686361a1)
