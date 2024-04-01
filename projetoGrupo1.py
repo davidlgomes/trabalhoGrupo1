@@ -10,7 +10,7 @@ def main():
         "Você costuma dormir pelo menos 7 horas por noite? \n 1 - Sim \n 2 - Não \n 3 - Não sei responder:\n>>",
         "Você fuma atualmente? \n 1 - Sim \n 2 - Não \n 3 - Não sei responder:\n>>"
     ]
-    
+
     # Verifica se o arquivo já existe e está vazio
     if not os.path.exists('dados_pesquisa.csv') or os.path.getsize('dados_pesquisa.csv') == 0:
         with open('dados_pesquisa.csv', 'w', newline='') as arquivo_csv:
@@ -46,3 +46,4 @@ def main():
     print("Dados salvos com sucesso no arquivo 'dados_pesquisa.csv'!")
 
 main()
+
