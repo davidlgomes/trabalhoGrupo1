@@ -1,9 +1,3 @@
-# Trabalho em grupo Modulo 1
-## Integrantes: 
-- <img src="https://avatars.githubusercontent.com/u/47571290?v=4" alt="David Lopes Gomes" style="width: 40px; height: 40px;">[David Lopes Gomes](https://github.com/davidlgomes)
-- <img src="https://avatars.githubusercontent.com/u/113522254?v=4" alt="Francisco Willian" style="width: 40px; height: 40px;">[Francisco Willian](https://github.com/WillianXG)
-- <img src="https://avatars.githubusercontent.com/u/114073975?v=4" alt="Daniel Fonseca" style="width: 40px; height: 40px;">[Daniel Fonseca](https://github.com/Dannfonseca)
-
 # Pesquisa de Saúde
 
 Este é um programa simples em Python para coletar dados de uma pesquisa de saúde e armazená-los em um arquivo CSV. A pesquisa consiste em algumas perguntas relacionadas a hábitos de saúde e estilo de vida.
