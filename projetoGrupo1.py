@@ -4,20 +4,25 @@ from datetime import datetime
 
 def validar_resposta(resposta):
     # Verifica se a resposta contém apenas números 1, 2 ou 3
-    if resposta not in ['1', '2', '3']:
-        return False
-    return True
+    if resposta in ['1', '2', '3']:
+        if resposta == '1':
+            return 'Sim'
+        elif resposta == '2':
+            return 'Não'
+        elif resposta == '3':
+            return 'Não sei responder'
+    return False
 
 def validar_resposta1(genero):
     # Verifica se a resposta contém apenas números de 1 a 10
-    if genero not in ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']:
-        return False
-    return True
+    if genero in ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']:
+        return True
+    return False
 
 def validar_idade(idade):
     try:
         idade = int(idade)
-        if idade >= 0 and idade <= 120:
+        if 0 <= idade <= 120:
             return True
         else:
             return False
@@ -65,7 +70,7 @@ def main():
                 resposta = input(pergunta)
                 while not validar_resposta(resposta):
                     resposta = input("Resposta inválida. Por favor, selecione uma das opções listadas: ")
-                respostas.append(resposta)
+                respostas.append(validar_resposta(resposta))
 
             # Obtém data e hora atual
             data_atual = datetime.now().strftime('%Y-%m-%d')
