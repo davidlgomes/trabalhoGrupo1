@@ -18,7 +18,7 @@ Este é um programa simples em Python para coletar dados de uma pesquisa de saú
 1. Certifique-se de ter o Python instalado em seu sistema. Você pode baixá-lo em [python.org](https://www.python.org/).
 2. Clone este repositório em sua máquina local usando `git clone`.
 3. Navegue até o diretório do projeto.
-4. Execute o script `pesquisa_saude.py` usando Python.
+4. Execute o script `projetoGrupo1.py` usando Python.
 5. Siga as instruções no terminal para inserir os dados da pesquisa.
 6. Quando terminar, digite '00' quando solicitado a informar a idade para sair do programa.
 
