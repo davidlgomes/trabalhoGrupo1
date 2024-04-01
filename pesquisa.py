@@ -33,7 +33,7 @@ class Pesquisa:
         # Lista de dados a serem gravados no arquivo CSV
         dados = [self.data_nascimento.strftime('%d/%m/%Y'), self.idade, self.genero] + self.respostas + [data_atual, hora_atual]
 
-        # Escreve os dados no arquivo CSV
+        # Escreve os dados no arquivo CSV 
         with open('dados_pesquisa.csv', 'a', newline='') as arquivo_csv:
             escritor_csv = csv.writer(arquivo_csv)
             # Verifica se o arquivo está vazio, se sim, escreve os títulos
