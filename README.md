@@ -1,8 +1,8 @@
 # Trabalho em grupo Modulo 1
 ## Integrantes: 
-<a href="https://github.com/davidlgomes">David Lopes Gomes</a><br>
-<a href="https://github.com/WillianXG">Francisco Willian</a><br>
-<a href="https://github.com/Dannfonseca">Daniel Fonseca</a><br>
+- <img src="https://avatars.githubusercontent.com/u/47571290?v=4" alt="David Lopes Gomes" style="width: 40px; height: 40px;">[David Lopes Gomes](https://github.com/davidlgomes)
+- <img src="https://avatars.githubusercontent.com/u/113522254?v=4" alt="Francisco Willian" style="width: 40px; height: 40px;">[Francisco Willian](https://github.com/WillianXG)
+- <img src="https://avatars.githubusercontent.com/u/114073975?v=4" alt="Daniel Fonseca" style="width: 40px; height: 40px;">[Daniel Fonseca](https://github.com/Dannfonseca)
 
 # Pesquisa de Saúde
 
@@ -34,25 +34,25 @@ Se você quiser contribuir com este projeto, por favor, siga estas etapas:
 
 ## Contribuidores
 
--  <img src="https://avatars.githubusercontent.com/u/47571290?v=4" alt="Bolinha2" style="width: 40px; height: 40px;">[@davidlgomes](https://github.com/davidlgomes)
-- <img src="https://avatars.githubusercontent.com/u/113522254?v=4" alt="Bolinha1" style="width: 40px; height: 40px;">[@WillianXG](https://github.com/WillianXG)
-- <img src="https://avatars.githubusercontent.com/u/114073975?v=4" alt="Bolinha3" style="width: 40px; height: 40px;">[@Dannfonseca](https://github.com/Dannfonseca)
-
+- <img src="https://avatars.githubusercontent.com/u/47571290?v=4" alt="David Lopes Gomes" style="width: 40px; height: 40px;">[David Lopes Gomes](https://github.com/davidlgomes)
+- <img src="https://avatars.githubusercontent.com/u/113522254?v=4" alt="Francisco Willian" style="width: 40px; height: 40px;">[Francisco Willian](https://github.com/WillianXG)
+- <img src="https://avatars.githubusercontent.com/u/114073975?v=4" alt="Daniel Fonseca" style="width: 40px; height: 40px;">[Daniel Fonseca](https://github.com/Dannfonseca)
 
 # Slide do Projeto
 
-![Screenshot 2024-03-18 at 19-29-54 SENAC - CNseg M1 Projeto em grupo - 1710162451196_C452_ SENAC - CNseg M1 Projeto em grupo pdf](https://github.com/davidlgomes/trabalhoGrupo1/assets/47571290/e5afe4f5-6484-40f3-8f90-ae85e5907637)
-![Screenshot 2024-03-18 at 19-30-04 SENAC - CNseg M1 Projeto em grupo - 1710162451196_C452_ SENAC - CNseg M1 Projeto em grupo pdf](https://github.com/davidlgomes/trabalhoGrupo1/assets/47571290/7b7b45c0-476e-4014-9309-2001533300e7)
-![Screenshot 2024-03-18 at 19-30-08 SENAC - CNseg M1 Projeto em grupo - 1710162451196_C452_ SENAC - CNseg M1 Projeto em grupo pdf](https://github.com/davidlgomes/trabalhoGrupo1/assets/47571290/beb28fc4-c1b9-48fe-85dc-ebf8686361a1)
-![Screenshot 2024-03-18 at 19-30-13 SENAC - CNseg M1 Projeto em grupo - 1710162451196_C452_ SENAC - CNseg M1 Projeto em grupo pdf](https://github.com/davidlgomes/trabalhoGrupo1/assets/47571290/cb4128a6-5f9d-46f0-bcae-516c39c4bfe0)
-![Screenshot 2024-03-18 at 19-30-17 SENAC - CNseg M1 Projeto em grupo - 1710162451196_C452_ SENAC - CNseg M1 Projeto em grupo pdf](https://github.com/davidlgomes/trabalhoGrupo1/assets/47571290/56e53a26-176f-4bbb-a96a-8b1507a023d8)
-![Screenshot 2024-03-18 at 19-30-32 SENAC - CNseg M1 Projeto em grupo - 1710162451196_C452_ SENAC - CNseg M1 Projeto em grupo pdf](https://github.com/davidlgomes/trabalhoGrupo1/assets/47571290/21e03591-d0f7-493e-887e-fa5d2ad15a26)
-![Screenshot 2024-03-18 at 19-30-37 SENAC - CNseg M1 Projeto em grupo - 1710162451196_C452_ SENAC - CNseg M1 Projeto em grupo pdf](https://github.com/davidlgomes/trabalhoGrupo1/assets/47571290/639bae1b-0c76-4e37-a6a3-69a3420b90ae)
-![Screenshot 2024-03-18 at 19-30-45 SENAC - CNseg M1 Projeto em grupo - 1710162451196_C452_ SENAC - CNseg M1 Projeto em grupo pdf](https://github.com/davidlgomes/trabalhoGrupo1/assets/47571290/593b131a-adb4-4398-8150-b895148819f4)
-![Screenshot 2024-03-18 at 19-30-51 SENAC - CNseg M1 Projeto em grupo - 1710162451196_C452_ SENAC - CNseg M1 Projeto em grupo pdf](https://github.com/davidlgomes/trabalhoGrupo1/assets/47571290/0381190f-6f25-4dac-bf01-9092a496e154)
-![Screenshot 2024-03-18 at 19-30-59 SENAC - CNseg M1 Projeto em grupo - 1710162451196_C452_ SENAC - CNseg M1 Projeto em grupo pdf](https://github.com/davidlgomes/trabalhoGrupo1/assets/47571290/cba46c20-08ae-4098-b559-afbefaf94f3d)
-![Screenshot 2024-03-18 at 19-31-06 SENAC - CNseg M1 Projeto em grupo - 1710162451196_C452_ SENAC - CNseg M1 Projeto em grupo pdf](https://github.com/davidlgomes/trabalhoGrupo1/assets/47571290/dcefa352-1e94-4a0d-9855-b19e2407cb1d)
-![Screenshot 2024-03-18 at 19-31-11 SENAC - CNseg M1 Projeto em grupo - 1710162451196_C452_ SENAC - CNseg M1 Projeto em grupo pdf](https://github.com/davidlgomes/trabalhoGrupo1/assets/47571290/fc823ac5-8405-4854-bf0e-c5bd4223f2eb)
-![Screenshot 2024-03-18 at 19-31-16 SENAC - CNseg M1 Projeto em grupo - 1710162451196_C452_ SENAC - CNseg M1 Projeto em grupo pdf](https://github.com/davidlgomes/trabalhoGrupo1/assets/47571290/8b99db07-c58b-418e-bc78-756659748920)
-![Screenshot 2024-03-18 at 19-31-20 SENAC - CNseg M1 Projeto em grupo - 1710162451196_C452_ SENAC - CNseg M1 Projeto em grupo pdf](https://github.com/davidlgomes/trabalhoGrupo1/assets/47571290/1b9154bf-a583-4842-bbc8-920695e4ba45)
-![Screenshot 2024-03-18 at 19-31-24 SENAC - CNseg M1 Projeto em grupo - 1710162451196_C452_ SENAC - CNseg M1 Projeto em grupo pdf](https://github.com/davidlgomes/trabalhoGrupo1/assets/47571290/ce642561-c776-4c16-8c6b-2dfa7ba1201f)
+![Slide 1](https://github.com/davidlgomes/trabalhoGrupo1/assets/47571290/e5afe4f5-6484-40f3-8f90-ae85e5907637)
+![Slide 2](https://github.com/davidlgomes/trabalhoGrupo1/assets/47571290/7b7b45c0-476e-4014-9309-2001533300e7)
+![Slide 3](https://github.com/davidlgomes/trabalhoGrupo1/assets/47571290/beb28fc4-c1b9-48fe-85dc-ebf8686361a1)
+![Slide 4](https://github.com/davidlgomes/trabalhoGrupo1/assets/47571290/cb4128a6-5f9d-46f0-bcae-516c39c4bfe0)
+![Slide 5](https://github.com/davidlgomes/trabalhoGrupo1/assets/47571290/56e53a26-176f-4bbb-a96a-8b1507a023d8)
+![Slide 6](https://github.com/davidlgomes/trabalhoGrupo1/assets/47571290/21e03591-d0f7-493e-887e-fa5d2ad15a26)
+![Slide 7](https://github.com/davidlgomes/trabalhoGrupo1/assets/47571290/639bae1b-0c76-4e37-a6a3-69a3420b90ae)
+![Slide 8](https://github.com/davidlgomes/trabalhoGrupo1/assets/47571290/593b131a-adb4-4398-8150-b895148819f4)
+![Slide 9](https://github.com/davidlgomes/trabalhoGrupo1/assets/47571290/0381190f-6f25-4dac-bf01-9092a496e154)
+![Slide 10](https://github.com/davidlgomes/trabalhoGrupo1/assets/47571290/cba46c20-08ae-4098-b559-afbefaf94f3d)
+![Slide 11](https://github.com/davidlgomes/trabalhoGrupo1/assets/47571290/dcefa352-1e94-4a0d-9855-b19e2407cb1d)
+![Slide 12](https://github.com/davidlgomes/trabalhoGrupo1/assets/47571290/fc823ac5-8405-4854-bf0e-c5bd4223f2eb)
+![Slide 13](https://github.com/davidlgomes/trabalhoGrupo1/assets/47571290/8b99db07-c58b-418e-bc78-756659748920)
+![Slide 14](https://github.com/davidlgomes/trabalhoGrupo1/assets/47571290/1b9154bf-a583-4842-bbc8-920695e4ba45)
+![Slide 15](https://github.com/davidlgomes/trabalhoGrupo1/assets/47571290/ce642561-c776-4c16-8c6b-2dfa7ba1201f)
+
