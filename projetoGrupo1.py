@@ -4,20 +4,44 @@ from datetime import datetime
 
 def validar_resposta(resposta):
     # Verifica se a resposta contém apenas números 1, 2 ou 3
-    if resposta not in ['1', '2', '3']:
-        return False
-    return True
+    if resposta in ['1', '2', '3']:
+        if resposta == '1':
+            return 'Sim'
+        elif resposta == '2':
+            return 'Não'
+        elif resposta == '3':
+            return 'Não sei responder'
+    return False
 
 def validar_resposta1(genero):
     # Verifica se a resposta contém apenas números de 1 a 10
-    if genero not in ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']:
-        return False
-    return True
+    if genero in ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']:
+        if genero == '1':
+            return 'Masculino'
+        elif genero == '2':
+            return 'Feminino'
+        elif genero == '3':
+            return 'Não binário'
+        elif genero == '4':
+            return 'Agênero'
+        elif genero == '5':
+            return 'Gênero fluido'
+        elif genero == '6':
+            return 'Bigênero'
+        elif genero == '7':
+            return 'Transgênero'
+        elif genero == '8':
+            return 'Intersexo'
+        elif genero == '9':
+            return 'Outro'
+        elif genero == '10':
+            return 'Prefiro não dizer'
+    return False
 
 def validar_idade(idade):
     try:
         idade = int(idade)
-        if idade >= 0 and idade <= 120:
+        if 0 <= idade <= 120:
             return True
         else:
             return False
@@ -65,14 +89,14 @@ def main():
                 resposta = input(pergunta)
                 while not validar_resposta(resposta):
                     resposta = input("Resposta inválida. Por favor, selecione uma das opções listadas: ")
-                respostas.append(resposta)
+                respostas.append(validar_resposta(resposta))
 
             # Obtém data e hora atual
             data_atual = datetime.now().strftime('%Y-%m-%d')
             hora_atual = datetime.now().strftime('%H:%M:%S')
 
             # Escreve os dados no arquivo CSV
-            escritor_csv.writerow([idade, genero] + respostas + [data_atual, hora_atual])
+            escritor_csv.writerow([idade, validar_resposta1(genero)] + respostas + [data_atual, hora_atual])
 
     print("Dados salvos com sucesso no arquivo 'dados_pesquisa.csv'!")
 
