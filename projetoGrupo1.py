@@ -16,7 +16,26 @@ def validar_resposta(resposta):
 def validar_resposta1(genero):
     # Verifica se a resposta contém apenas números de 1 a 10
     if genero in ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']:
-        return True
+        if genero == '1':
+            return 'Masculino'
+        elif genero == '2':
+            return 'Feminino'
+        elif genero == '3':
+            return 'Não binário'
+        elif genero == '4':
+            return 'Agênero'
+        elif genero == '5':
+            return 'Gênero fluido'
+        elif genero == '6':
+            return 'Bigênero'
+        elif genero == '7':
+            return 'Transgênero'
+        elif genero == '8':
+            return 'Intersexo'
+        elif genero == '9':
+            return 'Outro'
+        elif genero == '10':
+            return 'Prefiro não dizer'
     return False
 
 def validar_idade(idade):
@@ -77,7 +96,7 @@ def main():
             hora_atual = datetime.now().strftime('%H:%M:%S')
 
             # Escreve os dados no arquivo CSV
-            escritor_csv.writerow([idade, genero] + respostas + [data_atual, hora_atual])
+            escritor_csv.writerow([idade, validar_resposta1(genero)] + respostas + [data_atual, hora_atual])
 
     print("Dados salvos com sucesso no arquivo 'dados_pesquisa.csv'!")
 
