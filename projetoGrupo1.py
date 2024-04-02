@@ -65,7 +65,7 @@ def main():
 
             # Escreve o cabeçalho do arquivo CSV
             escritor_csv.writerow(
-                ['Idade', 'Genero', 'Resposta 1', 'Resposta 2', 'Resposta 3', 'Resposta 4', 'Data', 'Hora'])
+                ['Idade', 'Genero', 'Atividade física', 'Consumo de frutas e vegetais', '7 horas de sono', 'Tabagismo', 'Data', 'Hora'])
 
     # Abre o arquivo CSV para adição
     with open('dados_pesquisa.csv', 'a', newline='') as arquivo_csv:
